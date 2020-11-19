@@ -1,7 +1,7 @@
 ---
 title: Belgian Moon
 description: '... tastes good as well!'
-image_url: 'http://www.thebeerstore.ca/sites/default/files/styles/brand_hero/public/sbs/brand/0137%20H.png?itok=vlz26ov4'
+image_url: 'https://www.thebeerstore.ca/sites/default/files/styles/brand_hero/public/sbs/brand/0137%20H.png?itok=vlz26ov4'
 ---
 
 ## Introduction

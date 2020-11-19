@@ -16,7 +16,6 @@
     
     <LazyBaseAlert @closeAlert="show = !show" v-if="show"/>
     
-    <!-- <RiversAxios /> -->
   </div>
 </template>
 
